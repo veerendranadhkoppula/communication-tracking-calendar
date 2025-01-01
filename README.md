@@ -11,7 +11,7 @@ This project is a calendar application built using React for tracking communicat
 
 ## Live Demo
 
-You can see the live demo of this project [here](<LIVE_DEMO_LINK>).
+You can see the live demo of this project : .
 
 ## Technologies Used
 
